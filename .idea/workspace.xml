@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7936e443-3887-472c-ae30-3a13d3bdc61c" name="Default Changelist" comment="Added another comment" />
+    <list default="true" id="7936e443-3887-472c-ae30-3a13d3bdc61c" name="Default Changelist" comment="more comments">
+      <change beforePath="$PROJECT_DIR$/Button.html" beforeDir="false" afterPath="$PROJECT_DIR$/Button.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/variables.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +45,7 @@
       <updated>1600191154150</updated>
       <workItem from="1600191155640" duration="4159000" />
       <workItem from="1600468164653" duration="377000" />
-      <workItem from="1600468544724" duration="9000" />
+      <workItem from="1600468544724" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="Finished example lab">
       <created>1600468373616</created>
@@ -51,7 +54,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600468373616</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finsished example lab">
+      <created>1600468683896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600468683896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="more comments">
+      <created>1600468747162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600468747162</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,12 +79,18 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Finished example lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished example lab" />
+    <MESSAGE value="Finsished example lab" />
+    <MESSAGE value="more comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="more comments" />
   </component>
   <component name="WindowStateProjectService">
     <state x="230" y="97" key="SettingsEditor" timestamp="1600468552868">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="230" y="97" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1600468552868" />
+    <state x="321" y="185" key="Vcs.Push.Dialog.v2" timestamp="1600468788532">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="321" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1600468788532" />
   </component>
 </project>

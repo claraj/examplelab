@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+
+<!-- What is innerHTML ?-->
+<button id="button">Click here</button>
+<p>hello this is inner HTML</p>
+<ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+</ul>
+
+<script>
+
+    // type coercion is ok? use ==   usually only in form validation
+    // not ok? use ===  almost everywhere else
+    console.log(13 === '13')
+
+
+    let button = document.querySelector('#button')
+    button.addEventListener('click', function() {
+        alert("Hello")
+        button.innerHTML = "Button was clicked"
+    })
+
+    document.addEventListener('keyup', function(event) {
+        console.log(event.key)
+        if (event.key === 'Enter' || event.keyCode === 13) {
+            clickButton()
+        }
+    })
+
+    function clickButton() {
+        button.click()
+    }
+
+    // clickButton()
+
+
+</script>
+
+</body>
+</html>
